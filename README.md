@@ -1,2 +1,4 @@
 # hello-world
-hello-world repo
+Hi World
+Satinder here, just figuring out Git and GitHub
+
