@@ -1,4 +1,4 @@
 # hello-world
 Hi World
-Satinder here, just figuring out Git and GitHub
+Satinder here, just figuring out GitHub
 
